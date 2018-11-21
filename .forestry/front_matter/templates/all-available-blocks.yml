@@ -76,5 +76,3 @@ fields:
     default: ''
   hidden: false
   default: ''
-pages:
-- content/double-test.md
