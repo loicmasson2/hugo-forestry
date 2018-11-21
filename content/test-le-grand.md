@@ -30,5 +30,11 @@ media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
 image = "/uploads/rawpixel-618738-unsplash.jpg"
+[[page_sections]]
+block = "three-column-1"
+template = "3-column-text"
+[page_sections.col_1]
+content = "<img src=\"https://nightingalehealth.com/images/icon-academia.svg\"><img src=\"https://nightingalehealth.com/images/icon-academia.svg\"><br>Our blood analysis service is widely used in research to advance the molecular understanding of chronic disease development and improve prediction of disease onset. Nightingale's metabolomics technology has been featured in over 150 peer-reviewed publications, with our collaborators including world's leading universities and medical institutions."
+headline = "Used in world-class science"
 
 +++
