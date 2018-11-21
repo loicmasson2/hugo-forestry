@@ -42,5 +42,11 @@ headline = "Tailored for the clinical setting"
 [page_sections.col_3]
 content = "Metabolic profiling enhances drug target identification and validation by uncovering a comprehensive picture of drug target interactions across human metabolism - even at the preclinical stage. Nightingale’s metabolomics technology is ideal for tracking molecular changes and examining the metabolic effects of interventions during clinical trials."
 headline = "Adding value to drug development"
+[[page_sections]]
+block = "footer-2"
+col_2 = "Nightingale"
+col_3 = "Technology"
+col_4 = "Applications"
+template = "4-column-footer"
 
 +++
