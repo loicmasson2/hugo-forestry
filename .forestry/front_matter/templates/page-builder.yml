@@ -9,3 +9,5 @@ fields:
   template_types:
   - content-feature
   - text-column
+pages:
+- content/test.md
