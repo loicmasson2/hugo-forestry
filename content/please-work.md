@@ -25,5 +25,14 @@ template = "content-feature"
 [page_sections.media]
 alt_text = "ponche"
 image = "/uploads/rawpixel-618738-unsplash.jpg"
+[[page_sections]]
+block = "media-1"
+image = "/uploads/2018/06/21/edit.gif"
+template = "full-width-media-element"
+[[page_sections]]
+block = "text-1"
+content = "Isnt'it"
+headline = "NMR IS SIMPLY THE BEST"
+template = "detail-content"
 
 +++
