@@ -14,3 +14,5 @@ fields:
   - call-to-action
   - media-feature
   - hero-section
+pages:
+- content/test.md
