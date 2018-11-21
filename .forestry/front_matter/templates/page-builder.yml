@@ -33,3 +33,5 @@ fields:
   - link
   - 2-column-media-element
   - 1-column-text
+pages:
+- content/please-work.md
