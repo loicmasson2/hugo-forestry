@@ -21,6 +21,7 @@ headline = "Solving chronic diseases"
 media_alignment = "Left"
 template = "content-feature"
 [page_sections.media]
+alt_text = "text"
 image = "/uploads/louis-reed-747388-unsplash.jpg"
 [[page_sections]]
 block = "feature-1"
