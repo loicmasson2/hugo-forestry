@@ -11,6 +11,8 @@ template = "content-feature"
 [layout_component.media]
 image = "/uploads/2018/06/21/blocks-split.png"
 [[layout_component]]
+content = "Is it a column tho"
+headline = "Nice column"
 template = "text-column"
 
 +++
