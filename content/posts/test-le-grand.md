@@ -12,5 +12,12 @@ image = "/uploads/louis-reed-747388-unsplash.jpg"
 image_position = "Left"
 subheading = "RECOUCOU"
 template = "media-feature"
+[[blocks]]
+background_image = "/uploads/louis-reed-747388-unsplash.jpg"
+background_style = "Brand Color"
+heading = "cool hero"
+size = "Big"
+subheading = "This is cool"
+template = "hero-section"
 
 +++
