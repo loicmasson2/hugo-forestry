@@ -13,5 +13,8 @@ template = "2-column-media-element"
 [page_sections.image_1]
 caption = "This is cool"
 image = "/uploads/2018/06/21/drone-photo.jpeg"
+[page_sections.image_2]
+caption = "Such quality"
+image = "/uploads/louis-reed-747388-unsplash.jpg"
 
 +++
