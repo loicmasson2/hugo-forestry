@@ -16,5 +16,14 @@ image = "/uploads/2018/06/21/drone-photo.jpeg"
 [page_sections.image_2]
 caption = "Such quality"
 image = "/uploads/louis-reed-747388-unsplash.jpg"
+[[page_sections]]
+block = "feature-1"
+content = "NMR IS FOR COOL KIDS"
+headline = "BETS NMR"
+media_alignment = "Right"
+template = "content-feature"
+[page_sections.media]
+alt_text = "ponche"
+image = "/uploads/rawpixel-618738-unsplash.jpg"
 
 +++
