@@ -3,5 +3,3 @@ label: page-builder
 hide_body: false
 is_partial: false
 fields: []
-pages:
-- content/test.md
