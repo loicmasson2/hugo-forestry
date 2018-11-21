@@ -36,5 +36,11 @@ template = "3-column-text"
 [page_sections.col_1]
 content = "<img src=\"https://nightingalehealth.com/images/icon-academia.svg\"><img src=\"https://nightingalehealth.com/images/icon-academia.svg\"><br>Our blood analysis service is widely used in research to advance the molecular understanding of chronic disease development and improve prediction of disease onset. Nightingale's metabolomics technology has been featured in over 150 peer-reviewed publications, with our collaborators including world's leading universities and medical institutions."
 headline = "Used in world-class science"
+[page_sections.col_2]
+content = "Accurate prediction is key to preventing chronic diseases before they develop. Our blood analysis service is built on a foundation of scientific evidence and has been designed with a healthcare setting in mind. Nightingale’s technology makes identifying chronic diseases easier and more affordable – enabling preventative healthcare for all."
+headline = "Tailored for the clinical setting"
+[page_sections.col_3]
+content = "Metabolic profiling enhances drug target identification and validation by uncovering a comprehensive picture of drug target interactions across human metabolism - even at the preclinical stage. Nightingale’s metabolomics technology is ideal for tracking molecular changes and examining the metabolic effects of interventions during clinical trials."
+headline = "Adding value to drug development"
 
 +++
