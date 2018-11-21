@@ -15,4 +15,5 @@ fields:
   - media-feature
   - hero-section
 pages:
+- content/posts/my-first-post.md
 - content/posts/test-le-grand.md
