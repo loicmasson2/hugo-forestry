@@ -10,9 +10,8 @@ fields:
   name: blocks
   label: Blocks
   template_types:
-  - body-copy
-  - call-to-action
-  - media-feature
-  - hero-section
+  - simple-footer
+  - 2-column-media-element
+  - 1-column-text
 pages:
 - content/test.md
