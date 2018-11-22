@@ -15,6 +15,11 @@ block = "one-column-1"
 content = "Nightingale Health is aiming to solve the world’s biggest health issue."
 template = "1-column-text"
 [[page_sections]]
+block = "media-1"
+caption = "mac"
+image = "/uploads/rawpixel-618738-unsplash.jpg"
+template = "full-width-media-element"
+[[page_sections]]
 block = "three-column-1"
 template = "3-column-text"
 [page_sections.col_1]
@@ -32,24 +37,5 @@ col_2 = "Nightingale"
 col_3 = "Technology"
 col_4 = "Applications"
 template = "4-column-footer"
-[[page_sections]]
-block = "two-column-1"
-template = "2-column-text"
-[[page_sections.tsgfrdgd]]
-content = "adwdwawa"
-headline = "dawwda"
-template = "text-column"
-[[page_sections.tsgfrdgd]]
-content = "dawdwa"
-headline = "dawdaw"
-template = "text-column"
-[[page_sections.tsgfrdgd]]
-content = "adwdwadwaadwadw"
-headline = "dawdwa"
-template = "text-column"
-[[page_sections.tsgfrdgd]]
-content = "adwadwdwadwadawadw"
-headline = "adwdawdwa"
-template = "text-column"
 
 +++
