@@ -24,3 +24,6 @@ fields:
     name: column
     label: Column
     template: text-column
+- type: blocks
+  name: tsgfrdgd
+  label: tsgfrdgd
