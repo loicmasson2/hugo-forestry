@@ -49,5 +49,24 @@ col_2 = "Nightingale"
 col_3 = "Technology"
 col_4 = "Applications"
 template = "4-column-footer"
+[[page_sections]]
+block = "two-column-1"
+template = "2-column-text"
+[[page_sections.tsgfrdgd]]
+content = "adwdwawa"
+headline = "dawwda"
+template = "text-column"
+[[page_sections.tsgfrdgd]]
+content = "dawdwa"
+headline = "dawdaw"
+template = "text-column"
+[[page_sections.tsgfrdgd]]
+content = "adwdwadwaadwadw"
+headline = "dawdwa"
+template = "text-column"
+[[page_sections.tsgfrdgd]]
+content = "adwadwdwadwadawadw"
+headline = "adwdawdwa"
+template = "text-column"
 
 +++
