@@ -24,14 +24,6 @@ template = "content-feature"
 alt_text = "text"
 image = "/uploads/2018/06/21/drone-photo.jpeg"
 [[page_sections]]
-block = "feature-1"
-content = "Having detailed molecular-level data is an essential tool for predicting and preventing chronic diseases. Until now, extensive data hasn't been made available to the people that need it - the researchers, healthcare professionals and drugs companies on the frontline in our battle against chronic diseases. Our blood analysis platform challenges the status quo by providing comprehensive and affordable metabolic data."
-headline = "Health data from blood"
-media_alignment = "Right"
-template = "content-feature"
-[page_sections.media]
-image = "/uploads/rawpixel-618738-unsplash.jpg"
-[[page_sections]]
 block = "three-column-1"
 template = "3-column-text"
 [page_sections.col_1]
