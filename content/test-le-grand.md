@@ -15,15 +15,6 @@ block = "one-column-1"
 content = "Nightingale Health is aiming to solve the world’s biggest health issue."
 template = "1-column-text"
 [[page_sections]]
-block = "feature-1"
-content = "Health issues related to chronic diseases are a significant global issue. The annual healthcare costs of cardiovascular disease (CVD) and diabetes account to over 1.6 trillion dollars. To switch focus, from reactive disease management to proactive health maintenance, we need comprehensive and affordable health data."
-headline = "Solving chronic diseases"
-media_alignment = "Left"
-template = "content-feature"
-[page_sections.media]
-alt_text = "text"
-image = "/uploads/2018/06/21/drone-photo.jpeg"
-[[page_sections]]
 block = "three-column-1"
 template = "3-column-text"
 [page_sections.col_1]
