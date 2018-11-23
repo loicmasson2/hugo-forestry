@@ -32,6 +32,11 @@ block = "one-column-1"
 content = "Nightingale Health is aiming to solve the world’s biggest health issue."
 template = "1-column-text"
 [[page_sections]]
+block = "media-2"
+template = "2-column-media-element"
+[page_sections.image_1]
+image = "/uploads/rawpixel-618738-unsplash.jpg"
+[[page_sections]]
 block = "three-column-1"
 template = "3-column-text"
 [page_sections.col_1]
