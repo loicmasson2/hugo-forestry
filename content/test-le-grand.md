@@ -7,6 +7,18 @@ block = "header-3"
 logo = "/uploads/nightingale.svg"
 template = "simple-header"
 [[page_sections]]
+block = "header-1"
+logo = "/uploads/n.png"
+template = "navigation-header"
+[[page_sections.navigation]]
+link_text = "Research"
+[[page_sections.navigation]]
+link_text = "Academia"
+[[page_sections.navigation]]
+link_text = "Applications"
+[[page_sections.navigation]]
+link_text = "Technology"
+[[page_sections]]
 block = "hero-1"
 heading = "Transforming Medicine"
 template = "text-only-hero-banner"
