@@ -15,11 +15,6 @@ block = "one-column-1"
 content = "Nightingale Health is aiming to solve the world’s biggest health issue."
 template = "1-column-text"
 [[page_sections]]
-block = "media-1"
-caption = "mac"
-image = "/uploads/rawpixel-618738-unsplash.jpg"
-template = "full-width-media-element"
-[[page_sections]]
 block = "three-column-1"
 template = "3-column-text"
 [page_sections.col_1]
@@ -31,11 +26,5 @@ headline = "Tailored for the clinical setting"
 [page_sections.col_3]
 content = "Metabolic profiling enhances drug target identification and validation by uncovering a comprehensive picture of drug target interactions across human metabolism - even at the preclinical stage. Nightingale’s metabolomics technology is ideal for tracking molecular changes and examining the metabolic effects of interventions during clinical trials."
 headline = "Adding value to drug development"
-[[page_sections]]
-block = "footer-2"
-col_2 = "Nightingale"
-col_3 = "Technology"
-col_4 = "Applications"
-template = "4-column-footer"
 
 +++
