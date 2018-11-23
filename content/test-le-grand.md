@@ -19,14 +19,14 @@ link_text = "Applications"
 [[page_sections.navigation]]
 link_text = "Technology"
 [[page_sections]]
+block = "hero-1"
+heading = "Transforming Medicine"
+template = "text-only-hero-banner"
+[[page_sections]]
 block = "media-1"
 caption = "best drone"
 image = "/uploads/2018/06/21/drone-photo.jpeg"
 template = "full-width-media-element"
-[[page_sections]]
-block = "hero-1"
-heading = "Transforming Medicine"
-template = "text-only-hero-banner"
 [[page_sections]]
 block = "one-column-1"
 content = "Nightingale Health is aiming to solve the world’s biggest health issue."
