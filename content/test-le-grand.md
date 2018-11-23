@@ -1,7 +1,7 @@
 +++
 date = "2018-11-21T13:22:43+00:00"
 layout = "blocks"
-title = "Test le grand"
+title = "Test"
 [[page_sections]]
 block = "header-3"
 logo = "/uploads/nightingale.svg"
