@@ -39,6 +39,11 @@ image = "/uploads/rawpixel-618738-unsplash.jpg"
 [page_sections.image_2]
 image = "/uploads/louis-reed-747388-unsplash.jpg"
 [[page_sections]]
+block = "text-1"
+content = "That content"
+headline = "Best content"
+template = "detail-content"
+[[page_sections]]
 block = "three-column-1"
 template = "3-column-text"
 [page_sections.col_1]
